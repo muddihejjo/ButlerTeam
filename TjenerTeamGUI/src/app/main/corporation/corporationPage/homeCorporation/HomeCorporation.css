@@ -1,0 +1,7 @@
+.def-bg {
+    width: 100%;
+    background-image: url(../../../static/tjenerTeam2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

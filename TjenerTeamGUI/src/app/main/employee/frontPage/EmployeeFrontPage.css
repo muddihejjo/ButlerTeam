@@ -1,0 +1,7 @@
+.custom-bg {
+    width: 100%;
+    background-image: url("../../static/tjenerteam2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

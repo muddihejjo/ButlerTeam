@@ -1,0 +1,21 @@
+.booking:hover {
+    background-color: #e6e4e1;
+    cursor: pointer;
+}
+
+
+.day-header {
+    font-size: 29px;
+    color: red;
+}
+
+.date-header {
+    font-size: 35px;
+    color: black;
+}
+
+.month-header {
+    font-size: 29px;
+}
+
+

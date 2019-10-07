@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500&display=swap');
+
+p, h2{
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+.waiter-profile {
+    max-width: 200px;
+    height: auto;
+}
+
+.waiter-body {
+    max-width: 200px;
+    height: auto;
+}
+.bBtn {
+    background-color: darkgray;
+    color: white;
+}
+
+.bBtn:hover {
+    background-color: lightgray;
+}
+.sBtn {
+    background-color: #2d91fc;
+    color: white;
+}
+.sBtn:hover {
+    background-color: #2078d6;
+}

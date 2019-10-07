@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500&display=swap');
+
+p, h2 {
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+.country-icon {
+    height: 20px;
+    width: auto;
+}
+
+.denmark-icon-big {
+    height: 30px;
+    width: auto;
+
+}
+
+.line-breaker {
+    border: 0.5px solid lightgray;
+    width: 90%;
+}
+
+
+.language-box-1 {
+    width: 98%;
+    border: 0.5px solid lightgray;
+}
+
+.language-box-1-clicked {
+    width: 98%;
+    border: 0.5px solid lightgray;
+    background-color: #EEE8AA;
+}
+
+.language-box-1-clicked:hover {
+    background-color: rgb(230, 222, 141);
+}
+
+.language-box-1:hover {
+    background-color: #e6e6e6;
+}
+
+.circle-filled {
+    border-radius: 20px;
+    height: 20px;
+    width: 20px;
+    background-color: #2d3748;
+}
+.circle-empty {
+    border-radius: 20px;
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+}
+
+.bBtn {
+    background-color: darkgray;
+    color: white;
+}
+
+.bBtn:hover {
+    background-color: lightgray;
+}
+.sBtn {
+    background-color: #2d91fc;
+    color: white;
+}
+.sBtn:hover {
+    background-color: #2078d6;
+}
+.sBtn:disabled {
+    background-color: #6fb5ff;
+}

@@ -1,0 +1,10 @@
+export const employeeLogin = 'employeeLogin';
+export const employeePage = 'employeeHomePage';
+export const createEmployeePage = 'createEmployee';
+export const employeeFrontPage = "/employeeFrontPage";
+export const createBooking = "/createBooking";
+export const createCorporation = "/createCorporation";
+export const login = "/login";
+export const homeCorporation = './homeCorporation';
+export const editBooking = './editBooking';
+export const editCorporationProfile = "/corporationProfile";

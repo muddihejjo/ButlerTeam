@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.defFont{
+    font-family: Montserrat;
+}
+
+.cardForm {
+    background-color: #f5f7fa;
+}
+
+.welcomeTitle {
+    color: black;
+    font-weight: 900;
+    text-align: center;
+}
+
+.subTitle {
+    color: black;
+    font-weight: 900;
+    text-align: center;
+}
+
+.jobTitle {
+    font-weight: 900;
+}
+
+.optionBtn {
+    text-transform: lowercase;
+}
+
+.proceedBtn {
+    text-transform: uppercase;
+}
+
+.btnSelected {
+    background-color: #EEE8AA;
+}
+
+.btnSelected:hover {
+    background-color: rgb(230, 222, 141);
+}
+
+.optionBtn:first-letter {
+    text-transform: uppercase;
+}
+.sBtn {
+    background-color: #2d91fc;
+    color: white;
+}
+.sBtn:hover {
+    background-color: #2078d6;
+}
+.sBtn:disabled {
+    background-color: #6fb5ff;
+}
+
+.checkBox {
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 200px;
+}
+
+.underline {
+    border: 0.2px solid lightgray;
+    margin: 20px auto;
+    width: 95%;
+}

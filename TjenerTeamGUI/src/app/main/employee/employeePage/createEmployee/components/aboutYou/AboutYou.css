@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500&display=swap');
+
+p, h2 {
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+.drivers-license {
+    background-color: #b5b5b5;
+    color: black;
+}
+
+.drivers-license-clicked {
+    background-color: #00c75d;
+    color: black;
+}
+
+.drivers-license-clicked:hover {
+    background-color: #00bf59;
+}
+
+.car-owner {
+    background-color: #b5b5b5;
+    color: black;
+}
+
+.car-icon {
+    width: 30px;
+    height: auto;
+}
+.bBtn {
+    background-color: darkgray;
+    color: white;
+}
+
+.bBtn:hover {
+    background-color: lightgray;
+}
+.sBtn {
+    background-color: #2d91fc;
+    color: white;
+}
+.sBtn:hover {
+    background-color: #2078d6;
+}
+.checkBox {
+    border: 1px solid #C4C4C4;
+    border-radius: 3px;
+    width: 200px;
+}
+.btnSelected {
+    background-color: #EEE8AA;
+    border-color: black;
+}
+.btnSelected:hover {
+    background-color: rgb(230, 222, 141);
+}
